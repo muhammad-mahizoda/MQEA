@@ -1,0 +1,25 @@
+{
+  "child_id": "child_20251003170224",
+  "name": "Шарифчон Шарипов",
+  "date_of_birth": "2017-10-13",
+  "gender": "мужской",
+  "blood_type": "B(III)",
+  "allergies": [
+    "молоко",
+    "каша с рисом",
+    "рис",
+    ""
+  ],
+  "chronic_conditions": [
+    "астма",
+    "рахит",
+    ""
+  ],
+  "parents_info": {
+    "mother_name": "Салимова Салима",
+    "mother_phone": "+992919191919",
+    "father_name": "Шароф Шарипов",
+    "father_phone": "+992919181818"
+  },
+  "created_at": "2025-10-03T17:02:24.074772"
+}

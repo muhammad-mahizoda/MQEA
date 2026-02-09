@@ -1,0 +1,20 @@
+{
+  "child_id": "child_20251003170452",
+  "name": "Камолчон Камолов",
+  "date_of_birth": "2015-10-22",
+  "gender": "женский",
+  "blood_type": "A(II)",
+  "allergies": [
+    "соска",
+    "молоко",
+    ""
+  ],
+  "chronic_conditions": [],
+  "parents_info": {
+    "mother_name": "Лола Лолаевна",
+    "mother_phone": "+992919151515",
+    "father_name": "Салим Салимов",
+    "father_phone": "+992915151515"
+  },
+  "created_at": "2025-10-03T17:04:52.241623"
+}

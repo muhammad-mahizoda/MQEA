@@ -1,0 +1,29 @@
+{
+  "risk_levels": {
+    "low": 0,
+    "medium": 0,
+    "high": 0,
+    "critical": 0
+  },
+  "categories": {
+    "cardiovascular": 0,
+    "respiratory": 0,
+    "metabolic": 0,
+    "neurological": 0,
+    "infectious": 0,
+    "oncological": 0
+  },
+  "processing_stats": {
+    "total_chunks_processed": 1,
+    "total_patients_analyzed": 0,
+    "total_processing_time": 0.00461,
+    "average_memory_usage": 0.0,
+    "error_count": 0,
+    "average_processing_time_per_chunk": 0.00461,
+    "average_patients_per_second": 0.0,
+    "success_rate": 1.0,
+    "current_memory_usage_mb": 283.68359375
+  },
+  "total_patients": 20,
+  "analyzed_patients": 0
+}
